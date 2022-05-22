@@ -78,8 +78,8 @@ label.logo {
 }
   ul{
     overflow:hidden;
-    display: block;
-    position: fixed;
+    
+    position: static;
     width: 30%;
     height: 50vh;
     top: 80px;
