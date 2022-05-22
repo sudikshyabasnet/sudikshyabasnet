@@ -80,7 +80,6 @@ label.logo {
   ul{
     overflow:hidden;
     display:block;
-    
     position: static;
     width: 10%;
     height: 30vh;
@@ -92,24 +91,18 @@ label.logo {
   }
   nav ul li {
     display: block;
-    margin: 50px 0;
-    line-height: 30px;
+    margin: 10px 0;
+    line-height: 20px;
     overflow:hidden;
     position:static;
   }
   nav ul li a{
     overflow:hidden;
-    line-height:40px;
-    font-size:15px;
+    line-height:20px;
+    font-size:10px;
     position:static;
   }
-  a:hover,a.active{
-    background:grey;
-    color: #0082e6;
-  }
-  #check:checked~ul{
-    left: 50px;
-  }
+  
 }
 body{
 background:#555d50 ;
