@@ -93,6 +93,8 @@ label.logo {
     line-height: 30px;
   }
   nav ul li a{
+    overflow:hidden;
+    line-height:40px;
     font-size:15px;
   }
   a:hover,a.active{
