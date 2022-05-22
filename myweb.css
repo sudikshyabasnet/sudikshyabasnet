@@ -55,6 +55,7 @@ a.active,a:hover{
   margin-right: 40px;
   cursor: pointer;
   display: none;
+  overflow:hidden;
 }
 #check{
   display:none;
