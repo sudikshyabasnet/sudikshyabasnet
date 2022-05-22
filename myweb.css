@@ -286,7 +286,7 @@ color:whitesmoke;
 .backgroundimagebottom{
   background-image:  url("backgroundimage.jpg");
   background-repeat: no-repeat;
-  widhth: 30px;
+  widhth:100%;
   height: 90px;
 padding-bottom:200px;
   opacity: 1;
