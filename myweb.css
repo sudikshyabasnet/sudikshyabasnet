@@ -103,6 +103,7 @@ label.logo {
     position:static;
   }
  a:hover,a.active{
+   float:left;
     background:grey;
     color: #0082e6;
   }
