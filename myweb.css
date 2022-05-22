@@ -103,11 +103,12 @@ label.logo {
     font-size:15px;
     position:static;
   }
-  a:hover{
+  a:hover,a.active{
     background:grey;
     color: #0082e6;
   }
   #check:checked~ul{
+    background:no-repeat;
     left: 50px;
   }
 }
