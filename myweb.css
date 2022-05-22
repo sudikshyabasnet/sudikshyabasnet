@@ -108,7 +108,7 @@ label.logo {
     color: #0082e6;
   }
   #check:checked~ul{
-    left: 0;
+    left: 50px;
   }
 }
 body{
