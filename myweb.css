@@ -72,9 +72,9 @@ nav ul li a {
   .checkbtn{
     display: block;
   }
-  label.logo{
+  label.logopic{
   font-size: 30px;
-  padding-left:30px;
+  padding-right:30px;
 }
   ul{
     display: block;
