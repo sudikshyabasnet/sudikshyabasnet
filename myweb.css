@@ -104,7 +104,7 @@ label.logo {
     position:static;
   }
   a:hover{
-    background:lightgrey;
+    background:grey;
     color: #0082e6;
   }
   #check:checked~ul{
