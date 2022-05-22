@@ -103,12 +103,12 @@ label.logo {
     position:static;
   }
  a:hover,a.active{
-   float:left;
+   float-left:-100px;
     background:grey;
     color: #0082e6;
   }
   #check:checked~ul{
-    left: 50px;
+    float-left: 50px;
   } 
 }
 body{
