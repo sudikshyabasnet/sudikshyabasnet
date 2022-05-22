@@ -78,6 +78,7 @@ label.logo {
 }
   ul{
     overflow:hidden;
+    display:block;
     
     position: static;
     width: 30%;
