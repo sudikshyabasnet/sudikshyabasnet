@@ -77,6 +77,7 @@ label.logo {
    margin-right:50px;
 }
   ul{
+    overflow:hidden;
     display: block;
     position: fixed;
     width: 30%;
