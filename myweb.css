@@ -103,7 +103,7 @@ label.logo {
     font-size:15px;
     position:static;
   }
-  a:hover,a.active{
+  a:hover{
     background:lightgrey;
     color: #0082e6;
   }
