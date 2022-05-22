@@ -91,11 +91,14 @@ label.logo {
     display: block;
     margin: 50px 0;
     line-height: 30px;
+    overflow:hidden;
+    position:static;
   }
   nav ul li a{
     overflow:hidden;
     line-height:40px;
     font-size:15px;
+    position:static;
   }
   a:hover,a.active{
     background:lightgrey;
