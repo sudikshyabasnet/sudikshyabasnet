@@ -268,15 +268,15 @@ color:whitesmoke;
   background-size: cover;
   background-repeat: no-repeat;
   widhth:30vh;
-  height: 7vh;
+  height: 70vh;
   opacity: 1;
 
 }
 .backgroundimagebottom{
   background-image:  url("backgroundimage.jpg");
   background-repeat: no-repeat;
-  widhth:100%;
-  height:40%;
+  widhth:30vh;
+  height:80vh;
   opacity: 1;
 
 }
