@@ -79,7 +79,7 @@ label.logo {
 }
   ul{
     overflow:hidden;
-    display:block;
+    display:;
     position: static;
     width: 10%;
     height: 30vh;
@@ -102,7 +102,13 @@ label.logo {
     font-size:10px;
     position:static;
   }
-  
+ a:hover,a.active{
+    background:grey;
+    color: #0082e6;
+  }
+  #check:checked~ul{
+    left: 50px;
+  } 
 }
 body{
 background:#555d50 ;
