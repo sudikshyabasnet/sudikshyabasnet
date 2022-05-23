@@ -20,9 +20,9 @@ label.logo{
   color: black;
   font-size: 35px;
   line-height: 80px;
-  padding: 0 0px 0 0px;
+  padding: 0 0px 50px 50px;
   font-weight: bold;
-  margin-left: 100px;
+  float:left;
   
 }
 nav ul{
