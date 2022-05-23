@@ -257,7 +257,7 @@ color:whitesmoke;
   background-image:  url("backgroundimage.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  widhth: 30vh;
+  widhth: 100%;
   height: 70vh;
   opacity: 1;
 
@@ -267,7 +267,7 @@ color:whitesmoke;
   background-image:  url("backgroundimage.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  widhth:30vh;
+  widhth:100%;
   height: 70vh;
   opacity: 1;
 
@@ -275,8 +275,8 @@ color:whitesmoke;
 .backgroundimagebottom{
   background-image:  url("backgroundimage.jpg");
   background-repeat: no-repeat;
-  widhth:30vh;
-  height:80vh;
+  widhth:100%;
+  height:30%;
   opacity: 1;
 
 }
