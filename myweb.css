@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body{
-   
+   width:100%;
   font family: montserrat;
 }
 nav{
@@ -20,9 +20,9 @@ label.logo{
   color: black;
   font-size: 35px;
   line-height: 80px;
-  padding: 0 0px 0 100px;
+  padding: 0 0px 0 0px;
   font-weight: bold;
-  margin-left: 130px;
+  margin-left: 100px;
   
 }
 nav ul{
