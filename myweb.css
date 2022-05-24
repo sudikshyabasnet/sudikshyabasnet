@@ -60,6 +60,14 @@ a.active,a:hover{
 #check{
   display:none;
 }
+.backgroundimagebottom{
+  background-image:  url("backgroundimage.jpg");
+  background-repeat: no-repeat;
+  widhth:100%;
+  height:50%;
+  opacity: 1;
+
+}
 @media (max-width:952px) {
 label.logo{
   font-size: 30px;
