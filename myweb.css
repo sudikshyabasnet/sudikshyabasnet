@@ -47,7 +47,7 @@ a.active,a:hover{
   transition: .5s;
   color: white;
 }
-.checkbtn{
+checkbtn{
   font-size: 30px;
   color: white;
   float: right;
@@ -72,6 +72,12 @@ nav ul li a {
   .checkbtn{
     display: block;
   }
+  .footernav{
+margin-left:50%;
+font-weight:bold;
+font-size:15px;
+}
+
   ul{
     display: block;
     position: fixed;
