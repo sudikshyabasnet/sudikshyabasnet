@@ -69,7 +69,7 @@ nav ul li a {
 }
 }
 @media (max-width: 340px){
-  .checkbtn{
+  checkbtn{
     display: block;
   }
 
@@ -103,6 +103,7 @@ nav ul li a {
 margin-left:50%;
 font-weight:bold;
 font-size:15px;
+font-family:italic;
 }
 }
 body{
@@ -199,6 +200,7 @@ margin: 20px 50px 0 50px;
   opacity: 1;
   padding-top: 20px;
  background-color:#123456;
+ width:100%;
 }
 .form{
   padding-rigth: px;
@@ -293,4 +295,5 @@ color:whitesmoke;
 margin-left:50%;
 font-weight:bold;
 font-size:15px;
+font-family: italic;
 }
