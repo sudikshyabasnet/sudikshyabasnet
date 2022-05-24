@@ -70,9 +70,14 @@ nav ul li a {
 }
 }
 @media (max-width: 340px){
-  .checkbtn{
+  checkbtn{
     display: none;
   }
+  .footernav{
+margin-left:70%;
+font-weight:bold;
+font-size:23px;
+}
   ul{
     display: block;
     position: fixed;
