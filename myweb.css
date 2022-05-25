@@ -20,9 +20,9 @@ label.logo{
   color: black;
   font-size: 35px;
   line-height: 80px;
-  padding: 0 0px 0 100px;
+  padding: 0 0px 0 px;
   font-weight: bold;
-  margin-left: 90px;
+  margin-right:90px;
   
 }
 nav ul{
@@ -47,7 +47,7 @@ a.active,a:hover{
   transition: .5s;
   color: white;
 }
-checkbtn{
+cckbtn{
   font-size: 30px;
   color: white;
   float: right;
@@ -56,7 +56,7 @@ checkbtn{
   cursor: pointer;
   display:none;
 }
-#check{
+#heck{
   display:none;
 }
 @media (max-width:952px) {
@@ -69,7 +69,7 @@ nav ul li a {
 }
 }
 @media (max-width: 858px){
-  checkbtn{
+  ckbtn{
     display: block;
   }
 
