@@ -89,9 +89,11 @@ nav ul li a {
 margin-left:60%;
 font-weight:bold;
 font-size:20px;
+width:100%
 }
 }
 body{
+width:100%
 background:#555d50 ;
   }
 .row {
@@ -105,6 +107,7 @@ background:#555d50 ;
 
 #begindis{
 background: #555d50;
+
   
 
 }
@@ -180,6 +183,7 @@ font-size:15px;
 }
 .contact{
 margin: 20px 20px 0px 10px;
+
 }
 #all{
   opacity: 1;
@@ -187,7 +191,7 @@ margin: 20px 20px 0px 10px;
  background-color:#123456;
 }
 .form{
-  padding-rigth: px;
+  padding-right:100px;
   margin: 0 150px 50px 0px;
   width: 100%;
   color: black;
