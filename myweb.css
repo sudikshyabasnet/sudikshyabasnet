@@ -95,7 +95,7 @@ body{
 background:#555d50 ;
   }
 .row {
-  display: flex;
+  display:static;
 }
 
 .column {
@@ -179,7 +179,7 @@ font-size:15px;
   color: black;
 }
 .contact{
-margin: 20px 20px 0 20px;
+margin: 20px 20px 0px 10px;
 }
 #all{
   opacity: 1;
@@ -188,7 +188,7 @@ margin: 20px 20px 0 20px;
 }
 .form{
   padding-rigth: px;
-  margin: 0 250px 50px 0px;
+  margin: 0 150px 50px 0px;
   width: 100%;
   color: black;
   font-weight: bold;
@@ -224,7 +224,7 @@ color:whitesmoke;
   }
   #idform{
    
-    padding-right:500px;
+    padding-right:250px;
   }
   
   .footer{
