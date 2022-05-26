@@ -57,7 +57,7 @@ nav ul li a {
   font-size: 16px;
 }
 }
-@media (max-width: 858px){
+@media (max-width: 340px){
   
   
 .footernav{
@@ -163,7 +163,9 @@ padding: 20px 10px 0px 0px;
 margin: 20px 20px 0px 0px;
 
 }
-
+#mainpart{
+ background-color:#123456;
+}
 #all{
   opacity: 1;
   padding-top: 20px;
