@@ -72,11 +72,11 @@ width:100%
 background:#555d50 ;
   }
 .row {
-  display:static;
+  display:flex;
 }
 
 .column {
-  flex: 0%;
+  flex: 50%;
  
 }
 
