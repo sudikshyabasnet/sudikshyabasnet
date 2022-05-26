@@ -148,9 +148,9 @@ margin: 20px 50px 0 20px;
 }
 .btn{
   margin-top:600px;
-  background-color: #555d50;
+  background-color:#123456;
   color: whitesmoke;
-  border-radius: 40%;
+  border-radius:;
 }
 .education{
   
@@ -170,7 +170,7 @@ margin: 20px 50px 0 50px;
  background-color:#123456;
 }
 .form{
-  padding-rigth: px;
+  padding-rigth: 50px;
   margin: 0 50px 50px 0px;
   width: 100%;
   color: black;
