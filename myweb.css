@@ -70,9 +70,9 @@ nav ul li a {
 }
 @media (max-width:858px){
   .footernav{
-margin-left:50%;
+margin-left:65%;
 font-weight:bold;
-font-size:15px;
+font-size:20px;
 }
 }
 
@@ -162,7 +162,7 @@ margin: 20px 50px 0 20px;
   color: black;
 }
 .contact{
-margin: 20px 50px 0 50px;
+margin: 20px 50px 0 20px;
 }
 #all{
   opacity: 1;
@@ -207,7 +207,7 @@ color:whitesmoke;
   }
   #idform{
    
-    padding-left: 0px;
+    padding: 0px 50px 10px 30px;
   }
   
   .footer{
@@ -259,7 +259,7 @@ color:whitesmoke;
 }
 
 .footernav{
-margin-left:50%;
+margin-left:65%;
 font-weight:bold;
-font-size:15px;
+font-size:20px;
 }
