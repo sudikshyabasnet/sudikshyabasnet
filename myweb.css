@@ -16,13 +16,13 @@ overflow:hidden;
   width: 100%;
  }
 label.logo{
-  font-family:serif;
+  font-family: cursive;
   color: black;
   font-size: 35px;
   line-height: 80px;
-  padding:0 100px 0 10px;
+  padding: 0 0px 0 100px;
   font-weight: bold;
-  0px;
+  margin-left: 130px;
   
 }
 nav ul{
@@ -47,7 +47,18 @@ a.active,a:hover{
   transition: .5s;
   color: white;
 }
-
+.checkbtn{
+  font-size: 30px;
+  color: black;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check{
+  display:none;
+}
 @media (max-width:952px) {
 label.logo{
   font-size: 30px;
@@ -57,22 +68,45 @@ nav ul li a {
   font-size: 16px;
 }
 }
-@media (max-width: 340px){
-  
-  
-.footernav{
-margin-left:60%;
-font-weight:bold;
-font-size:20px;
-width:100%
-}
+@media (max-width: 858px){
+  .checkbtn{
+    display: block;
+  }
+nav{
+over
+  ul{
+    display: block;
+    position: fixed;
+    width: 30%;
+    height: 50vh;
+    top: 80px;
+    left: -100%;
+    text-align: center;
+    transition:  all .5s;
+    background:transparent;
+  }
+  nav ul li {
+    display: block;
+    margin: 50px 0;
+    line-height: 30px;
+  }
+  nav ul li a{
+    font-size:15px;
+  }
+  a:hover,a.active{
+float-left:100px;
+    background:lightgrey;
+    color: #0082e6;
+  }
+  #check:checked~ul{
+    left: 0;
+  }
 }
 body{
-width:100%
 background:#555d50 ;
   }
 .row {
-  display:flex;
+  display: flex;
 }
 
 .column {
@@ -82,7 +116,6 @@ background:#555d50 ;
 
 #begindis{
 background: #555d50;
-
   
 
 }
@@ -132,20 +165,18 @@ h1{
   
 }
 #mainpart p{
-font-family: serif;
+font-family: cursive;
   font-size: 20px;
   color: black;
 }
-
 .about{
-padding: 100px 0px 0px 20px;
+margin: 20px 50px 0 20px;
 }
 .btn{
-  margin-top:60px;
-  background-color:darkblue;
+  margin-top:600px;
+  background-color: #555d50;
   color: whitesmoke;
-  border-radius: 0%;
-font-size:15px;
+  border-radius: 40%;
 }
 .education{
   
@@ -156,15 +187,8 @@ font-size:15px;
   font-size: 20px;
   color: black;
 }
-idcontact{
-padding: 20px 10px 0px 0px;
-}
 .contact{
-margin: 20px 20px 0px 0px;
-
-}
-#mainpart{
- background-color:#123456;
+margin: 20px 50px 0 50px;
 }
 #all{
   opacity: 1;
@@ -172,8 +196,8 @@ margin: 20px 20px 0px 0px;
  background-color:#123456;
 }
 .form{
-  padding-right:100px;
-  margin: 0 150px 50px 0px;
+  padding-rigth: px;
+  margin: 0 50px 50px 0px;
   width: 100%;
   color: black;
   font-weight: bold;
@@ -209,7 +233,7 @@ color:whitesmoke;
   }
   #idform{
    
-    padding:20px 250px 0px 10px;
+    padding-left: 0px;
   }
   
   .footer{
@@ -237,7 +261,7 @@ color:whitesmoke;
   background-size: cover;
   background-repeat: no-repeat;
   widhth: 30vh;
-  height: 100vh;
+  height: 70vh;
   opacity: 1;
 
 }
@@ -246,22 +270,23 @@ color:whitesmoke;
   background-image:  url("backgroundimage.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  widhth:30vh;
-  height: 100vh;
+  widhth: 30vh;
+  height: 70vh;
   opacity: 1;
 
 }
 .backgroundimagebottom{
   background-image:  url("backgroundimage.jpg");
   background-repeat: no-repeat;
-  widhth:100%;
-  height:50%;
+  widhth: 30px;
+  height: 90px;
+padding-bottom:200px;
   opacity: 1;
 
 }
 
 .footernav{
-margin-left:60%;
+margin-left:85%;
 font-weight:bold;
-font-size:20px;
+font-size:25px;
 }
