@@ -47,7 +47,7 @@ a.active,a:hover{
   transition: .5s;
   color: white;
 }
-.checkbtn{
+checkbtn{
   font-size: 30px;
   color: black;
   float: right;
@@ -70,9 +70,9 @@ nav ul li a {
 }
 @media (max-width:858px){
   .footernav{
-margin-left:55%;
+margin-left:50%;
 font-weight:bold;
-font-size:20px;
+font-size:15px;
 }
 }
 
@@ -235,7 +235,7 @@ color:whitesmoke;
   background-size: cover;
   background-repeat: no-repeat;
   widhth: 30vh;
-  height: 70vh;
+  height: 90vh;
   opacity: 1;
 
 }
@@ -245,7 +245,7 @@ color:whitesmoke;
   background-size: cover;
   background-repeat: no-repeat;
   widhth: 30vh;
-  height: 70vh;
+  height: 90vh;
   opacity: 1;
 
 }
@@ -259,7 +259,7 @@ color:whitesmoke;
 }
 
 .footernav{
-margin-left:55%;
+margin-left:50%;
 font-weight:bold;
-font-size:20px;
+font-size:15px;
 }
