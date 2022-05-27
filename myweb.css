@@ -169,46 +169,6 @@ margin: 20px 50px 0 20px;
   padding-top: 20px;
  background-color:#123456;
 }
-.form{
-  padding-rigth: 10px;
-  margin: 0 20px 20px 0px;
-  width: 100%;
-  color: black;
-  font-weight: bold;
-  border-radius: 4px;
-  
-  text-align: center;
-
- }
- input{
-  background-color: black;
-  color: whitesmoke;
-  border-bottom-style: solid;
-    margin-left: 10px;
-    width: 50%;
-    height: 7%;
-    border-radius: 4px;
-    border-color: lightblue;
-
-  }
-  submit{
-   color: white;
-    font-size: 100px  ;
-  }
-    textarea{
-      background-color: black;
-      margin-left: 10px;
-margin-bottom:10px;
-    width: 50%;
-    height: 150px;
-    border-color:lightblue;
-    border-radius: 4px;
-color:whitesmoke;
-  }
-  #idform{
-   
-    padding: 0px 50px 10px 30px;
-  }
   
   .footer{
 
