@@ -96,11 +96,8 @@ nav ul li a {
   #check:checked~ul{
     left: 0;
   }
-.footernav{
-margin-left:50%;
-font-weight:bold;
-font-size:20px;
-}
+
+
 }
 		.begindisplay{
 			
