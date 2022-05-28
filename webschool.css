@@ -68,6 +68,7 @@ nav ul li a {
 @media (max-width: 858px){
   
 .footernav{
+	    padding-top:10px;
 margin-left:50%;
 font-weight:bold;
 font-size:20px;
@@ -298,6 +299,7 @@ p{
 
 }
 .footernav{
+	    padding-top:10px;
 margin-left:50%;
 font-weight:bold;
 font-size:20px;
