@@ -6,26 +6,28 @@
   box-sizing: border-box;
 }
 body{
-  
+   
   font family: montserrat;
 }
 nav{
   background-color: #556b2f;
+overflow:hidden;
   height: 80px;
   width: 100%;
  }
 label.logo{
+  font-family:serif;
   color: black;
-  font-size: 20px;
-  line-height: 50px;
-  padding-bottom: 20px;
+  font-size: 30px;
+  line-height: 80px;
+  padding: 0 0px 0 10px;
   font-weight: bold;
-  margin-right: 10px;
-  margin-left: 0px;
+  margin-right: 130px;
+  
 }
 nav ul{
   float: right;
-  margin-right: 10px;
+  margin-right: 20px;
 }
 nav ul li{
   display: inline-block;
@@ -33,32 +35,47 @@ nav ul li{
   margin: 0 5px;
 }
 nav ul li a{
+font-weight:bold;
   color: black;
-  font-size: 17px;
+  font-size: 20px;
 padding: 7px 13px;
     text-transform: uppercase;
   border-radius: 3px;
 }
 a.active,a:hover{
-  
+  background: ;
   transition: .5s;
   color: white;
 }
-
+checkbtn{
+  font-size: 30px;
+  color: black;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check{
+  display:none;
 }
 @media (max-width:952px) {
 label.logo{
-  font-size: 20px;
-  padding-left:0px;
+  font-size: 30px;
+  padding-left:30px;
 }
 nav ul li a {
   font-size: 16px;
 }
 }
-@media (max-width: 858px){
- nav ul li a {
-display:none;
-  }
+@media (max-width:858px){
+  .footernav{
+    padding-top:10px;
+margin-left:50%;
+font-weight:bold;
+font-size:20px;
+}
+
 
 }
 		.begindisplay{
