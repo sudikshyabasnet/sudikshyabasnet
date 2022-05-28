@@ -70,7 +70,7 @@ nav ul li a {
 }
 @media (max-width:858px){
   .footernav{
-margin-left:50%;
+margin-right:30%;
 font-weight:bold;
 font-size:20px;
 }
@@ -220,7 +220,7 @@ margin: 10px 50px 0 20px;
 }
 
 .footernav{
-margin-left:50%;
+margin-right:30%;
 font-weight:bold;
 font-size:20px;
 }
