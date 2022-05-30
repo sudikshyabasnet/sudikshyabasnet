@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body{
-   
+   width:100%;
   font family: montserrat;
 }
 nav{
@@ -79,7 +79,7 @@ font-size:20px;
 
 }
 		.begindisplay{
-			
+			width:100%;
 			background-color:#9ab973;
 			}
 		h4{
@@ -131,6 +131,7 @@ h1{
 }
 .intro{
 	margin-right: 50%;
+width:100%;
 	
 }
 h1{
@@ -225,6 +226,7 @@ h5{
 
 
 .contact{
+
    font-family: cursive;
 	width: 
 	text-decoration-color: whitesmoke;
@@ -287,7 +289,7 @@ p{
   background-image:url("schoolbackgroundimage.jpg");
   background-size: ;
   background-repeat: no-repeat;
-  widhth: 30vh;
+  widhth: 100%;
   height: 80vh;
   opacity: 1;
   padding-top: 20px;
