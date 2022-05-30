@@ -81,7 +81,6 @@ width:100%;
 }
 
 body{
-
 background:#555d50 ;
   }
 .row {
@@ -94,9 +93,8 @@ background:#555d50 ;
 }
 
 #begindis{
-background: #555d50;
-  
-width:100%
+background: #555d50;  
+width:100%;
 }
 #begindis p{
   font-family: cursive;
