@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 body{
-   
+   width:100%;
   font family: montserrat;
 }
 nav{
@@ -81,6 +81,7 @@ width:100%;
 }
 
 body{
+width:100%;
 background:#555d50 ;
   }
 .row {
@@ -154,7 +155,7 @@ width:100%;
   margin-top:40px;
   background-color:darkblue;
   color: black;
-  border-radius:;
+  border-radius:30px;
 font-size:10px:
 }
 .education{
