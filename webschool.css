@@ -145,14 +145,13 @@ h3{
 }
 .form{
 	 padding-top:20px
-	margin-right: 100px;
-  padding-right: 200px;
-  Padding-left:10px;
+	margin-right: 50px;
+  padding-right: 100px;
+  padding-left:20px;
   width: 100%;
   color: black;
   font-weight: bold;
   border-radius: 4px;
-  
   text-align: center;
 
  }
