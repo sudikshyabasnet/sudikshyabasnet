@@ -156,6 +156,15 @@ font-family:serif;
   font-size: 20px;
   color: black;
 }
+#idabout{
+width:100%;
+}
+#ideducation{
+width:100%;
+}
+#idcontact{
+width:100%;
+}
 .about{
 margin: 20px 50px 0 5px;
 width:100%;
