@@ -144,10 +144,10 @@ h3{
 	color: whitesmoke;
 }
 .form{
-	 
+	 padding-top:20px
 	margin-right: 100px;
   padding-right: 200px;
-  
+  Padding-left:10px;
   width: 100%;
   color: black;
   font-weight: bold;
@@ -226,10 +226,10 @@ h5{
 
 
 .contact{
-
+padding-top:20px;
    font-family:serif;
 	width: 100%;
-	text-decoration-color: whitesmoke;
+	text-decoration-color:black;
   font-weight: bold;
 
 
@@ -246,6 +246,7 @@ h5{
   font-family:serif;
 	padding-left: 10px;
 	padding-bottom: 70px;
+padding-top:20px;
 width:100%;
 }
 column {
