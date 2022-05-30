@@ -227,14 +227,15 @@ h5{
 
 .contact{
 
-   font-family: cursive;
-	width: 
+   font-family:serif;
+	width: 100%;
 	text-decoration-color: whitesmoke;
   font-weight: bold;
 
+
 }
 .about{
-   font-family: cursive;
+   font-family:serif;
 	padding-bottom: 50px;
 	margin-top: 10px;
 	width: 100%;
@@ -242,11 +243,12 @@ h5{
 	color: whitesmoke;
 }
 .facilities{
-  font-family: cursive;
-	padding-left: 60px;
+  font-family:serif;
+	padding-left: 10px;
 	padding-bottom: 70px;
+width:100%;
 }
-.column {
+column {
   float: left;
   width: 50%;
   padding: 5px;
